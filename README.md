@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Exonorid/ExE! I don't really know what to put here rn so 🤷‍♂️
+
+# Links:
+<a rel="me" href="https://tech.lgbt/@exonorid"><img src="https://img.shields.io/badge/Mastodon-7289da?logo=Mastodon&logoColor=white" /></a>
+
 <!--
 **Exonorid/Exonorid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
